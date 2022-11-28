@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Storytelling
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on a Python Pokemon Game
-- 📫 Reach me [LinkedIn](https://www.linkedin.com/in/bkakie/) or email brittneykakie.bk@gmail.com
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bkakie/) or email brittneykakie.bk@gmail.com
 
 <!---
 TheBrittinator/TheBrittinator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
